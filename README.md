@@ -9,4 +9,5 @@
 https://overtrue.me
 
 
-[:heart: Sponsor me](https://github.com/sponsors/overtrue)
+[:heart: Sponsor me](https://github.com/sponsors/overtrue) 
+[:heart: 打赏支持我呀！](https://github.com/sponsors/overtrue) 
