@@ -4,7 +4,7 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Shenzhen・🕹Web developer
+🇨🇳 Shenzhen,China・🕹Web developer
 
 https://overtrue.me
 
