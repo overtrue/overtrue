@@ -2,8 +2,6 @@
 
 ### Hello 👋
 
-> Keep calm and coding.
-
 🇨🇳 Shenzhen,China・🕹Web developer
 
 https://overtrue.me
