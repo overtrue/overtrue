@@ -8,8 +8,10 @@ https://overtrue.me
 
 如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sponsors/overtrue)
 
-![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge)
+<!-- ![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge) -->
 
 
 [![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
 
+
+![](https://raw.githubusercontent.com/overtrue/overtrue/master/profile-3d-contrib/profile-south-season-animate.svg)
