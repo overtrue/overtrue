@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-🇨🇳 Shenzhen,China・🕹Web developer
+🇨🇳 Shenzhen,China・🕹Web developer・想去 Tokyo
 
 https://overtrue.me
 
