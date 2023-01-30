@@ -13,5 +13,3 @@ https://overtrue.me
 
 [![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
 
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
