@@ -11,5 +11,3 @@ https://overtrue.me
 <!-- ![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge) -->
 
 
-[![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
-
