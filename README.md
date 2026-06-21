@@ -1,6 +1,6 @@
 ### Hello 👋
 
-🇨🇳 Shenzhen,China・🕹Web developer
+🇨🇳 Shenzhen,China・🕹 AI dispatcher
 
 https://overtrue.me
 
