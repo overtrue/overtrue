@@ -1,18 +1,34 @@
-<p><a href="https://overtrue.me"><img src="./logo.svg" alt="overtrue logo" width="64" height="64"></a></p>
+<a href="https://overtrue.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./brand/profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./brand/profile-light.svg">
+    <img alt="overtrue — Keep calm and coding." src="./brand/profile-light.svg" width="100%">
+  </picture>
+</a>
 
-[Logo variants](./brand/README.md)
+# Chris An · 安正超
 
-### Hello 👋
+**Open-source developer · AI dispatcher · Shenzhen, China**
 
-🇨🇳 Shenzhen,China・🕹 AI dispatcher
+You may have seen my name in Composer. I like building things that make a developer's day a little easier. These days, I'm also working on [RustFS](https://github.com/rustfs/rustfs).
 
-https://overtrue.me
+写代码。做开源。保持好奇。
 
-https://github.com/sponsors/overtrue
+[Website ↗](https://overtrue.me) · [Writing](https://overtrue.me/writing/) · [Sponsor](https://github.com/sponsors/overtrue) · [Email](mailto:i@overtrue.me)
 
-![](https://github-readme-stats.shion.dev/api?username=overtrue&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=overtrue&theme=dark&hide_border=true)<br/>
+## A few things I work on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it does |
+| --- | --- |
+| **[EasyWeChat](https://github.com/w7corp/easywechat)** | A PHP SDK that takes the busywork out of WeChat development. |
+| **[RustFS](https://github.com/rustfs/rustfs)** | S3-compatible object storage, built in Rust. I contribute here. |
+| **[Easy SMS](https://github.com/overtrue/easy-sms)** | One PHP API for sending SMS through different providers. |
+| **[Pinyin](https://github.com/overtrue/pinyin)** | Chinese-to-pinyin conversion that understands context. |
 
+[More projects ↗](https://github.com/overtrue?tab=repositories)
 
+---
+
+Say hello on [X](https://x.com/overtrue666), or drop me an [email](mailto:i@overtrue.me). If my work has helped you, [sponsoring it](https://github.com/sponsors/overtrue) helps me keep going.
+
+[Brand assets](./brand/README.md)
