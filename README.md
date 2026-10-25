@@ -1,3 +1,5 @@
+<p><a href="https://overtrue.me"><img src="./logo.svg" alt="overtrue logo" width="64" height="64"></a></p>
+
 ### Hello 👋
 
 🇨🇳 Shenzhen,China・🕹 AI dispatcher
